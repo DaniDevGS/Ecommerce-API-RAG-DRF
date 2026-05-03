@@ -9,7 +9,7 @@
 
 ## 🚀 Descripción
 
-Este proyecto resuelve el problema de la búsqueda estática en tiendas online, permitiendo a los usuarios interactuar con un asistente ("Trivenly") que entiende el contexto de los productos, precios y categorías, ofreciendo una experiencia de compra personalizada y eficiente.
+Este es el proyecto de finalización de mi curso de "Desarrollo de APIs con arquitectura de Microservicios", este proyecto demuestra mi dominio de Python, desarrollo de APIs Rest usando Django Rest Framework y modelos de inteligencia artificial (LLM), en este RAG los modelos que use fueron los de la API de Groq. También se uso una base de datos vectorial para mejorar el contexto y las respuestas del RAG
 
 ## 📋 Requisitos Previos
 
