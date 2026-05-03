@@ -1,0 +1,10 @@
+.agents/
+skills-lock.json
+*.txt
+!requirements.txt
+Endpoints_Tienda.md
+.env
+productos_scraped.json
+db.sqlite3
+venv
+API_GUIDE.md
