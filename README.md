@@ -1,11 +1,11 @@
-# Triven Shop API
+# Ecommerce API RAG DRF
 
 ![Django](https://img.shields.io/badge/Django-5.2-092e20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-3.16-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Groq%20%7C%20RAG-orange?style=for-the-badge)
 
-**Triven Shop API** es un sistema backend robusto para eCommerce que integra un asistente virtual inteligente (Chatbot RAG) capaz de responder preguntas sobre el inventario en tiempo real utilizando búsqueda semántica.
+**Ecommerce-API-RAG-DRF** es un sistema backend robusto para eCommerce que integra un asistente virtual inteligente (Chatbot RAG) capaz de responder preguntas sobre el inventario en tiempo real utilizando búsqueda semántica y modelos de lenguaje grandes.
 
 ## 🚀 Descripción
 
